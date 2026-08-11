@@ -20,30 +20,25 @@ Una falla simulada en el sensor de temperatura T² permite validar la capacidad 
 
 ---
 
-**Clonar repositorio:**
+**Muestra tres gráficos interactivos:**
 
-https://github.com/ChemicalMindset/pca-reactor-monitoring.git
-cd pca-reactor-monitoring
+T² vs tiempo
+Q vs tiempo
+Varianza explicada (barras + acumulada)
 
-**Crea y actica un entorno visual:**
+---
+
+**Crea y activa un entorno visual:**
 
 pip install numpy matplotlib
 
-En Windows
+En Windows:
 python -m venv venv
 .\venv\Scripts\activate
 
 En Linux/macOS:
 python3 -m venv venv
 source venv/bin/activate
-
----
-
-**Muestra tres gráficos interactivos:**
-
-T² vs tiempo
-Q vs tiempo
-Varianza explicada (barras + acumulada)
 
 ---
 
