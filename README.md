@@ -1,0 +1,1 @@
+# Detecci-n-de-fallas-en-proceso-de-polimerizaci-n-mediante-PCA
