@@ -44,3 +44,9 @@ source venv/bin/activate
 T² vs tiempo
 Q vs tiempo
 Varianza explicada (barras + acumulada)
+
+---
+
+**Objetivos para próximas versiones:**
+
+Incorporar una interfaz de usuario para que cada se pueda ingresar las variables correspondientes a cada proceso particular y no depender de modificar el código para nuevos controles.
