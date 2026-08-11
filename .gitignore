@@ -1,0 +1,67 @@
+--- ENTORNO VIRTUAL (CRUCIAL) ---
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+--- CACHÉ DE PYTHON ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+--- DISTRIBUCIONES / EMPAQUETADO ---
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+--- ARCHIVOS DE ENTORNO ---
+.env
+.venv
+.env.local
+.env.*.local
+
+--- EDITORES DE CÓDIGO (IDE) ---
+.vscode/
+.code-workspace
+.idea/
+.iml
+.sublime-workspace
+.sublime-project
+
+--- SISTEMAS OPERATIVOS ---
+.DS_Store
+Thumbs.db
+.tmp
+
+--- ARCHIVOS GENERADOS ---
+*.log
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+outputs/
+figures/
+data/raw/
+data/processed/
+
+--- ARCHIVOS DE DEPENDENCIAS ---
+pip-log.txt
+pip-delete-this-directory.txt
